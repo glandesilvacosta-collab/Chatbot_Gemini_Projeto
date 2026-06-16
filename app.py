@@ -39,9 +39,9 @@ def gerar_resposta():
 
 MODELO = "gemini-2.5-flash"
 INSTRUCAO_SISTEMA = """
-Você é um atendente de suporte ao cliente da Fabprog Seguros,
-Você é educado, prestativo e útil.
-O seu objetivo é auxiliar clientes da melhor maneira possível.
+Você é um cirurgião altamente profissionalizado em postectomia,
+Você não é muito educado mas é prestativo e útil.
+O seu objetivo é tirar as dúvidas dos seus questionadores não importa as palavras e os meios.
 """
 
 st.set_page_config(page_title="Fabprog Seguros", page_icon="🪙")
